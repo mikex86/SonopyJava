@@ -39,7 +39,7 @@ float[][] filters = Sonopy.filterbanks(sampleRate, numFilters, fftLen); // Proba
 
 ## Installation
 
-Add the add the latest release jar to your classpath using your buildsystem or IDE.
+Add the latest release jar to your classpath using your buildsystem or IDE.
 
 If there are any problems, try adding the [Jetbrains Annotations](https://mvnrepository.com/artifact/org.jetbrains/annotations) library.
 
