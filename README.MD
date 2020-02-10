@@ -1,4 +1,5 @@
 # Sonopy Java Implementation
+![Java CI](https://github.com/GommeAntiLegit/SonopyJava/workflows/Java%20CI/badge.svg?branch=master&event=push)
 
 This is a Java implementation of the Audio feature extraction library
 [Sonopy by MycroftAI](https://github.com/MycroftAI/sonopy).
